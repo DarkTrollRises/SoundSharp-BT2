@@ -1,0 +1,11 @@
+implementatieplan
+virtualbox ubuntu 14.... lts
+acceptatieplan;
+welke onderdelen en hoe te testen
+onderhoud en beheer document;
+hoe om te gaan met releases
+hoe bugs te melden
+hou rekening met prioriteit van foutmeldingen
+resultatenrapport samen met opdrachtgever
+opdrachten om aan te passen binnen sw
+wekelijks woensdag half 10 gesprek

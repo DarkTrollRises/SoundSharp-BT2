@@ -1,0 +1,2 @@
+Gebruikersnaam = "TEST" of "s"
+Wachtwoord = "SHARPSOUND" of "s"

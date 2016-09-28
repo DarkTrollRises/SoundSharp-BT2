@@ -1,0 +1,12 @@
+C:\Users\Roel\Desktop\SoundSharp - Roel Katuin\1. Console App\SoundSharp\SoundSharp\bin\Debug\SoundSharp.exe.config
+C:\Users\Roel\Desktop\SoundSharp - Roel Katuin\1. Console App\SoundSharp\SoundSharp\bin\Debug\SoundSharp.exe
+C:\Users\Roel\Desktop\SoundSharp - Roel Katuin\1. Console App\SoundSharp\SoundSharp\bin\Debug\SoundSharp.pdb
+C:\Users\Roel\Desktop\SoundSharp - Roel Katuin\1. Console App\SoundSharp\SoundSharp\obj\Debug\SoundSharp.csprojResolveAssemblyReference.cache
+C:\Users\Roel\Desktop\SoundSharp - Roel Katuin\1. Console App\SoundSharp\SoundSharp\obj\Debug\SoundSharp.exe
+C:\Users\Roel\Desktop\SoundSharp - Roel Katuin\1. Console App\SoundSharp\SoundSharp\obj\Debug\SoundSharp.pdb
+C:\Dropbox\School\ICT\SoundSharp BT2\1. Console App\SoundSharp\SoundSharp\obj\Debug\SoundSharp.csprojResolveAssemblyReference.cache
+C:\Dropbox\School\ICT\SoundSharp BT2\1. Console App\SoundSharp\SoundSharp\obj\Debug\SoundSharp.exe
+C:\Dropbox\School\ICT\SoundSharp BT2\1. Console App\SoundSharp\SoundSharp\bin\Debug\SoundSharp.exe.config
+C:\Dropbox\School\ICT\SoundSharp BT2\1. Console App\SoundSharp\SoundSharp\bin\Debug\SoundSharp.exe
+C:\Dropbox\School\ICT\SoundSharp BT2\1. Console App\SoundSharp\SoundSharp\bin\Debug\SoundSharp.pdb
+C:\Dropbox\School\ICT\SoundSharp BT2\1. Console App\SoundSharp\SoundSharp\obj\Debug\SoundSharp.pdb
